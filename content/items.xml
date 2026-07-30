@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+    <active id="1" name="Tidal Wave" gfx="tidal_wave_item.png" description="Surf's up!" quality="3" maxcharges="24" chargetype="normal"/>
+</items>
