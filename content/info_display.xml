@@ -1,0 +1,8 @@
+<collectibles>
+    <collectible id = "1">
+        <info text="Summons a wave that crashes through the room" />
+        <info text="Applies the 'Soaked' condition to any entities hit" />
+        <info text="Soaked non-boss enemies deal no damage but move 30% faster" />
+        <info text="Soaked players move 25% faster but deal 25% less damage" />
+    </collectible>
+</collectibles>
